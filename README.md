@@ -6,6 +6,29 @@ Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gesti
 
 ---
 
+### 🛠️ Proyectos Destacados (Datos y TI)
+
+#### 🛒 Aplicación de Gestión de Portales de Venta Online
+* **Descripción:** Proyecto activo para desarrollar una solución integral que centraliza y optimiza la **gestión de información** procedente de múltiples plataformas de venta en línea (e-commerce).
+* **Enfoque de Datos:** El objetivo es estandarizar, limpiar y modelar los datos de inventario, precios y rendimiento de ventas para **análisis unificado** y futura implementación de modelos predictivos de demanda.
+* **Tecnologías:** `Python`, `SQL` para manejo de bases de datos, `Pandas` para limpieza de datos.
+
+#### 🚀 Aplicación para Gestión y Análisis Dirigido de E-commerce
+* **Objetivo:** Solución integral que centraliza, modela y optimiza la **gestión de información** de múltiples plataformas de venta en línea, transformando datos brutos en inteligencia de negocio.
+* **Componentes de Valor:**
+    * **Gestión de Plataformas:** Normalización y limpieza de datos de inventario y precios de diversas fuentes, asegurando la calidad del dato.
+    * **Reportes de Ventas Dirigidas:** Implementación de algoritmos de **segmentación de clientes** y análisis de rendimiento para generar informes accionables que impulsan estrategias de venta personalizadas.
+
+---
+
+### 🔑 Logros Clave de Mi Trayectoria 
+
+* **Optimización Estratégica:** Apliqué mi **enfoque metódico** y conocimiento de sistemas para analizar flujos de trabajo clave, logrando una **reducción media del [30]%** en costos operativos mediante la **optimización de plataformas digitales**.
+* **Calidad del Dato:** 18+ años de experiencia técnica garantizan la **gobernanza y calidad del dato** desde el origen, una base crítica para la precisión de cualquier modelo de Data Science.
+* **Liderazgo Analítico:** Fui el enlace clave entre TI y negocio, traduciendo requerimientos funcionales en **especificaciones de datos** claras para la toma de decisiones, demostrando **comunicación técnica efectiva**.
+
+---
+
 ### 🛠️ Mi Stack Técnico y Herramientas
 
 | Categoría | Tecnologías Clave |
@@ -13,22 +36,21 @@ Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gesti
 | **Lenguajes** | `Python` (Pandas, NumPy, Scikit-learn), `SQL` |
 | **Modelado ML** | Regresión, Clasificación, *Clustering*, Series de Tiempo |
 | **Visualización** | `Matplotlib`, `Seaborn` |
-| **Infraestructura** | `Git` & `GitHub`, Bases de Datos Relacionales/No Relacionales, Plataformas Cloud |
+| **Infraestructura** | `Git` & `GitHub`, Bases de Datos, Plataformas Cloud |
+
 
 ---
 
 ### 🌱 Lo Que Estoy Desarrollando/Aprendiendo Ahora
 
-* Explorando técnicas avanzadas de **Deep Learning** (TensorFlow/Keras)
 * Desarrollando un proyecto de **Análisis Predictivo** aplicado a la optimización de procesos de TI.
-* Contribuyendo a proyectos *open source* en el área de .
 
 ---
 
 ### 📈 Logros Clave (Aplica mi Experiencia)
 
 * [Menciona un proyecto clave de tu repositorio que demuestre análisis/ML].
-* Mi base de 20+ años en TI garantiza un enfoque metódico en la **calidad del dato** y la **escalabilidad** de los modelos de Data Science.
+* Mi base de 18+ años en TI garantiza un enfoque metódico en la **calidad del dato** y la **escalabilidad** de los modelos de Data Science.
 
 ---
 
