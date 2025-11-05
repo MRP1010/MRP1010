@@ -63,7 +63,8 @@ Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gesti
 
   El objeto Series: Se profundiza en el objeto Series de la librería Pandas, una potente herramienta para la manipulación y el análisis eficiente de datos.
 
-Estadística descriptiva: Se implementa el arte de resumir e interpretar datos utilizando la estadística descriptiva, que es una habilidad vital en el ámbito del análisis de datos.
+  Estadística descriptiva: Se implementa el arte de resumir e interpretar datos utilizando la estadística descriptiva, que es una habilidad vital en el ámbito del análisis de datos.
+  
 * Mi base de 18+ años en TI garantiza un enfoque metódico en la **calidad del dato** y la **escalabilidad** de los modelos de Data Science.
 
 ---
