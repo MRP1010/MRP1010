@@ -49,7 +49,20 @@ Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gesti
 
 ### 📈 Logros Clave (Aplica mi Experiencia)
 
-* [Menciona un proyecto clave de tu repositorio que demuestre análisis/ML].
+* Proyecto Integrado 1 y 2. Estos proyectos nos permiten reafirmar puntos como:
+Recorrer diccionarios en bucle: Se domina el arte de iterar a través de diccionarios, que es una habilidad crucial para la manipulación eficiente de datos.
+
+Estructuras de datos anidadas con diccionarios: Se descubre lo versátil que son los diccionarios anidados, lo cual te permite organizar y gestionar estructuras de datos complejas sin problemas.
+
+Procesar listas de diccionarios: Se adquiere destreza en la manipulación y extracción de información valiosa de listas que contienen diccionarios.
+
+Parámetros y valores por defecto: Se obtiene un profundo conocimiento de los parámetros de función, incluyendo el uso estratégico de valores por defecto para mejorar la flexibilidad.
+
+Valores de retorno: Se mejora la versatilidad de tus funciones mediante la incorporación de valores de retorno, lo que facilita su integración en programas de gran tamaño.
+
+El objeto Series: Se profundiza en el objeto Series de la librería Pandas, una potente herramienta para la manipulación y el análisis eficiente de datos.
+
+Estadística descriptiva: Se implementa el arte de resumir e interpretar datos utilizando la estadística descriptiva, que es una habilidad vital en el ámbito del análisis de datos.
 * Mi base de 18+ años en TI garantiza un enfoque metódico en la **calidad del dato** y la **escalabilidad** de los modelos de Data Science.
 
 ---
