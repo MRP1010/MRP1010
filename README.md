@@ -2,7 +2,7 @@
 
 #### 💻 Data Scientist en Transición | 18+ Años de Experiencia en TI
 
-Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gestión de Sistemas, Análisis de Procesos y Optimización) y una especialización reciente en **Data Science**. Mi pasión es fusionar mi visión estratégica de negocio con el análisis estadístico y el Machine Learning para resolver problemas complejos.
+Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gestión de Sistemas, Análisis de Procesos y Optimización) y una especialización reciente en **Data Science y Desarrollo Web** . Mi pasión es fusionar mi visión estratégica de negocio con el análisis estadístico y el Machine Learning para resolver problemas complejos.
 
 ---
 
@@ -18,7 +18,12 @@ Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gesti
 * **Componentes de Valor:**
     * **Gestión de Plataformas:** Normalización y limpieza de datos de inventario y precios de diversas fuentes, asegurando la calidad del dato.
     * **Reportes de Ventas Dirigidas:** Implementación de algoritmos de **segmentación de clientes** y análisis de rendimiento para generar informes accionables que impulsan estrategias de venta personalizadas.
-
+ 
+### 🌐 [Alrededor de los EE. UU.](https://github.com/MRP1010) (Web Development)
+**Stack:** React, JavaScript (ES6+), HTML5, CSS3 (BEM), Webpack, API REST.
+* Aplicación interactiva desarrollada con **Programación Orientada a Objetos (OOP)**.
+* Integración de APIs para manejo de perfiles, carga de imágenes y "likes" en tiempo real.
+* Enfoque total en **Responsive Design** y accesibilidad.
 ---
 
 ### 🔑 Logros Clave de Mi Trayectoria 
@@ -33,9 +38,10 @@ Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gesti
 
 | Categoría | Tecnologías Clave |
 | :--- | :--- |
-| **Lenguajes** | `Python` (Pandas, NumPy, Scikit-learn), `SQL` |
-| **Modelado ML** | Regresión, Clasificación, *Clustering*, Series de Tiempo |
-| **Visualización** | `Matplotlib`, `Seaborn` |
+| **Desarrollo Front-End** | React, JavaScript (ES6+), HTML5, CSS3 (Flexbox/Grid), BEM |
+| **Data Science & ML** | Python (Pandas, NumPy, Scikit-learn), SQL, Estadística Descriptiva |
+| **Visualización & Análisis** | Matplotlib, Seaborn, Análisis Exploratorio (EDA) |
+| **Herramientas & Infraestructura** | Git, GitHub, Webpack, Node.js, Gestión de CMS, Soporte TI |
 | **Infraestructura** | `Git` & `GitHub`, Bases de Datos, Plataformas Cloud |
 
 
@@ -43,7 +49,9 @@ Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gesti
 
 ### 🌱 Lo Que Estoy Desarrollando/Aprendiendo Ahora
 
-* Desarrollando un proyecto de **Análisis Predictivo** aplicado a la optimización de procesos de TI.
+* Profundizando en el ecosistema **React** para aplicaciones de gran escala.
+* Desarrollando modelos de **Machine Learning** aplicados a la logística de ventas.
+* Participando activamente en el bootcamp de **TripleTen** para perfeccionar mis habilidades de desarrollo web.
 
 ---
 
