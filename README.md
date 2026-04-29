@@ -6,20 +6,20 @@ Profesional con una **trayectoria robusta de más de dos décadas en TI** (Gesti
 
 ---
 
-### 🛠️ Proyectos Destacados (Datos y TI)
+### 🛠️ Proyectos Destacados (TI-Datos-Web)
 
 #### 🛒 Aplicación de Gestión de Portales de Venta Online
 * **Descripción:** Proyecto activo para desarrollar una solución integral que centraliza y optimiza la **gestión de información** procedente de múltiples plataformas de venta en línea (e-commerce).
 * **Enfoque de Datos:** El objetivo es estandarizar, limpiar y modelar los datos de inventario, precios y rendimiento de ventas para **análisis unificado** y futura implementación de modelos predictivos de demanda.
 * **Tecnologías:** `Python`, `SQL` para manejo de bases de datos, `Pandas` para limpieza de datos.
 
-#### 🚀 Aplicación para Gestión y Análisis Dirigido de E-commerce
+#### 🚀 [Aplicación para Gestión y Análisis Dirigido de E-commerce]([https://github.com/MRP1010/Proyecto-Integrado])
 * **Objetivo:** Solución integral que centraliza, modela y optimiza la **gestión de información** de múltiples plataformas de venta en línea, transformando datos brutos en inteligencia de negocio.
 * **Componentes de Valor:**
     * **Gestión de Plataformas:** Normalización y limpieza de datos de inventario y precios de diversas fuentes, asegurando la calidad del dato.
     * **Reportes de Ventas Dirigidas:** Implementación de algoritmos de **segmentación de clientes** y análisis de rendimiento para generar informes accionables que impulsan estrategias de venta personalizadas.
  
-### 🌐 [Alrededor de los EE. UU.](https://github.com/MRP1010) (Web Development)
+#### ✈️ [Alrededor de los EE. UU.]([https://github.com/MRP1010/web_project_around_es]) 
 **Stack:** React, JavaScript (ES6+), HTML5, CSS3 (BEM), Webpack, API REST.
 * Aplicación interactiva desarrollada con **Programación Orientada a Objetos (OOP)**.
 * Integración de APIs para manejo de perfiles, carga de imágenes y "likes" en tiempo real.
