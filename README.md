@@ -65,7 +65,7 @@ Soy un profesional con más de **20 años de trayectoria en el sector IT**, evol
 
 ### 📈 Logros Clave (Aplica mi Experiencia)
 
-* Proyecto Integrado 1 y 2. Estos proyectos nos permiten reafirmar puntos como:
+* Proyecto Integrado. Estos proyectos nos permiten reafirmar puntos como:
 
   Recorrer diccionarios en bucle: Se domina el arte de iterar a través de diccionarios, que es una habilidad crucial para la manipulación eficiente de datos.
 
@@ -80,7 +80,22 @@ Soy un profesional con más de **20 años de trayectoria en el sector IT**, evol
   El objeto Series: Se profundiza en el objeto Series de la librería Pandas, una potente herramienta para la manipulación y el análisis eficiente de datos.
 
   Estadística descriptiva: Se implementa el arte de resumir e interpretar datos utilizando la estadística descriptiva, que es una habilidad vital en el ámbito del análisis de datos.
-  
+
+* 🚀 Desarrollo Web Avanzado: Proyecto "Around the US"
+  Este proyecto representa la consolidación de habilidades críticas en el desarrollo de interfaces dinámicas y robustas, reafirmando los siguientes pilares:
+
+  Arquitectura Modular con Clases (OOP): Implementación de Programación Orientada a Objetos mediante la creación de clases como Card y FormValidator. Esto garantiza un código reutilizable,     organizado y fácil de mantener, reflejando estándares de nivel senior.
+
+  Gestión del DOM y Eventos: Dominio en la manipulación dinámica de elementos y la gestión de escuchas de eventos (EventListeners), permitiendo una experiencia de usuario fluida e interactiva.
+
+  Integración de API REST: Experiencia práctica en la conexión con servicios externos para el manejo de datos en tiempo real (carga de perfiles, sistema de "likes" y actualización de tarjetas),      asegurando la persistencia de la información.
+
+  Validación de Formularios en Tiempo Real: Desarrollo de lógica personalizada para la validación de entradas de usuario, mejorando la integridad de los datos antes de su procesamiento.
+
+  Optimización y Empaquetado con Webpack: Configuración de entornos de desarrollo modernos, optimizando el rendimiento de la aplicación y gestionando dependencias de manera eficiente.
+
+  Diseño Responsivo y Metodología BEM: Uso de CSS avanzado (Flexbox/Grid) bajo la metodología BEM para crear interfaces escalables que mantienen una estética impecable en cualquier dispositivo.
+    
 * Mi base de 20+ años en TI garantiza un enfoque metódico en la **calidad del dato** y la **escalabilidad** de los modelos de Data Science.
 
 ---
